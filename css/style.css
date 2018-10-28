@@ -42,8 +42,11 @@ selector {
 }
  
 .col-3 {
+  background: #ccc;
   /* this column will span all the entire wrapper */
 }
+
+
 
 p { /* select all <p> */
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
