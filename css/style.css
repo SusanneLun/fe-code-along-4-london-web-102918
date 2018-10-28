@@ -15,7 +15,11 @@ selector {
 */
 
 /* Type selector */
-
+.wrapper {
+  width: 960px;
+  margin: 0 auto;
+  background: #eee;
+}
 
 p { /* select all <p> */
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
